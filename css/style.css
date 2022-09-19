@@ -1,0 +1,32 @@
+.navteste{
+    background-color: darkslateblue;
+    padding: 15px;
+
+}
+
+body{
+    background-image: url(../imagens/fundo-branco4-1024x576.webp);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.pesquisar{
+    padding-left: 1000px;
+}
+
+.img{
+    margin-left: 15%;
+}
+
+.titulo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 50px;
+}
+
+.sub1, .sub2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
