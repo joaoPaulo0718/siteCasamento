@@ -1,11 +1,10 @@
 .navteste{
-    background-color: darkslateblue;
+    background-color: #B3D6F0;
     padding: 15px;
 
 }
 
 body{
-    background-image: url(../imagens/fundo-branco4-1024x576.webp);
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
@@ -13,7 +12,7 @@ body{
 }
 
 .pesquisar{
-    padding-left: 1000px;
+    padding-left: 1400px;
 }
 
 .img{
@@ -21,12 +20,20 @@ body{
 }
 
 .titulo{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: sans-serif;
     text-align: center;
     font-size: 50px;
 }
 
-.sub1, .sub2{
+.sub5, .sub7{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
+}
+
+.sub1, .sub2, .sub3{
+    font-family: sans-serif;
+}
+
+.a, .b, .c, .d, .j{
+    font-family: sans-serif;
 }
